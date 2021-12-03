@@ -1,2 +1,0 @@
-IsEquippedRight("Vralen Averos.esp" | 0x80C) OR
-IsEquippedLeft("Vralen Averos.esp" | 0x80C)
